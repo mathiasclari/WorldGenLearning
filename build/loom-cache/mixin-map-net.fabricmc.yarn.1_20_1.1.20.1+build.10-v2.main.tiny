@@ -1,0 +1,3 @@
+v1	named	intermediary
+METHOD	net/skypieamc/worldgen/mixin/WorldGenMixin	()I	getSeaLevel	method_16398
+METHOD	net/skypieamc/worldgen/mixin/WorldGenMixin	(Lnet/minecraft/world/ChunkRegion;Lnet/minecraft/world/gen/StructureAccessor;Lnet/minecraft/world/gen/noise/NoiseConfig;Lnet/minecraft/world/chunk/Chunk;)V	buildSurface	method_12110

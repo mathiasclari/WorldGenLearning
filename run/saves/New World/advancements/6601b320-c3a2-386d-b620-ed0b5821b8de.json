@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 22:08:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-07-28 22:19:18 +0200",
+      "minecraft:taiga": "2023-07-28 22:18:21 +0200",
+      "minecraft:sunflower_plains": "2023-07-28 22:14:32 +0200",
+      "minecraft:birch_forest": "2023-07-28 22:10:10 +0200",
+      "minecraft:windswept_hills": "2023-07-28 22:17:25 +0200",
+      "minecraft:beach": "2023-07-28 22:13:12 +0200",
+      "minecraft:lukewarm_ocean": "2023-07-28 22:08:40 +0200",
+      "minecraft:river": "2023-07-28 22:09:26 +0200",
+      "minecraft:cold_ocean": "2023-07-28 22:11:03 +0200",
+      "minecraft:forest": "2023-07-28 22:10:00 +0200",
+      "minecraft:deep_cold_ocean": "2023-07-28 22:11:33 +0200",
+      "minecraft:desert": "2023-07-28 22:08:28 +0200",
+      "minecraft:jungle": "2023-07-28 22:10:08 +0200",
+      "minecraft:ocean": "2023-07-28 22:13:56 +0200",
+      "minecraft:warm_ocean": "2023-07-28 22:08:36 +0200",
+      "minecraft:deep_lukewarm_ocean": "2023-07-28 22:08:49 +0200",
+      "minecraft:windswept_gravelly_hills": "2023-07-28 22:16:20 +0200",
+      "minecraft:savanna": "2023-07-28 22:09:22 +0200",
+      "minecraft:plains": "2023-07-28 22:09:16 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

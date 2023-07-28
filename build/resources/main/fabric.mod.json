@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "worldgen",
+  "version": "1.0.0",
+  "name": "Worldgen",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/skess/untitled"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/worldgen/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.skypieamc.worldgen.client.WorldgenClient"
+    ],
+    "main": [
+      "net.skypieamc.worldgen.Worldgen"
+    ]
+  },
+  "mixins": [
+    "mixin.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
